@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PCapDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/miglayout15-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/miglayout-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
